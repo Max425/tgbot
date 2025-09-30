@@ -1,2 +1,2 @@
-TOKEN = "5964460207:AAFvtfwdgNPOh_3jYpCisZWuQ6fak4bNbyM"
+TOKEN = "TOKEN"
 DB_PATH = "shop.db"
