@@ -51,7 +51,6 @@ async def handle_payment(msg: types.Message):
 
 async def main():
     init_db()  # создаём таблицы, если их нет
-    # dp.include_router(dp)  # регистрируем роутеры
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
